@@ -1,0 +1,4 @@
+name: BansAPI
+version: '${project.version}'
+main: com.shymaks.bansapi.BansAPI
+author: _Shymaks_
